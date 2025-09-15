@@ -1,0 +1,27 @@
+# ---- General ----
+.DS_Store
+Thumbs.db
+
+# ---- IDEs ----
+.idea/
+*.iml
+*.class
+
+# ---- Java / Spring Boot ----
+target/
+*.log
+*.jar
+*.war
+*.ear
+
+# ---- React ----
+node_modules/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ---- OS ----
+*.swp
+*.swo
